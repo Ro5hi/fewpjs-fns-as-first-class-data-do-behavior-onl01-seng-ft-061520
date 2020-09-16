@@ -16,5 +16,5 @@ function showMessage(msg) {
 /* Write your implementation of displayMessage() */
 function message(timeString) {
   const time = parseInt(timeString, 11);
-  
+  if (hour < 11)
 }

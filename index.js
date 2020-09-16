@@ -10,7 +10,7 @@ function handleClick(e) {
 /* End Given Code, don't edit above here...*/
 
 /* Write your implementation of greet() */
-function showMessage(msg) {
+function displayMessage(msg) {
   document.getElementById("greeting").innerText = msg;
 }
 /* Write your implementation of displayMessage() */

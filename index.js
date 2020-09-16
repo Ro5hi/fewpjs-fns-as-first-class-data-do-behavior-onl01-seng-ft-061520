@@ -14,4 +14,4 @@ function showMessage(msg) {
   document.getElementById("greeting").innerText = msg;
 }
 /* Write your implementation of displayMessage() */
-function 
+function message()

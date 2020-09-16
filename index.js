@@ -11,6 +11,6 @@ function handleClick(e) {
 
 /* Write your implementation of greet() */
 function showMessage(msg) {
-  documentGetelementID
+  document.getElementById
 }
 /* Write your implementation of displayMessage() */

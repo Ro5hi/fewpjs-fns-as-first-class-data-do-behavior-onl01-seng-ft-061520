@@ -14,8 +14,8 @@ function showMessage(msg) {
   document.getElementById("greeting").innerText = msg;
 }
 /* Write your implementation of displayMessage() */
-function greet(timeString) {
-  const time = parseInt(timeString, 11);
+function greet(timeStr) {
+  const time = parseInt(timeStr, 11);
   if (hour > 12) return "Good evening"
   if (hour < 12) return "Good morning"
   return "Good afternoon"

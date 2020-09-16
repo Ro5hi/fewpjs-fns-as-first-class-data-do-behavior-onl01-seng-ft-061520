@@ -15,7 +15,7 @@ function showMessage(msg) {
 }
 /* Write your implementation of displayMessage() */
 function greet(timeStr) {
-  const time = parseInt(timeStr, 11);
+  const time = parseInt(timeStr, 10);
   if (hour > 12) return "Good evening"
   if (hour < 12) return "Good morning"
   return "Good afternoon"

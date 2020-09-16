@@ -15,5 +15,6 @@ function showMessage(msg) {
 }
 /* Write your implementation of displayMessage() */
 function message(timeString) {
-  const time = parseInt
+  const time = parseInt(timeString, 12)
+  
 }

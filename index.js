@@ -10,5 +10,6 @@ function handleClick(e) {
 /* End Given Code, don't edit above here...*/
 
 /* Write your implementation of greet() */
-function 
+function showMessage(msg)
+
 /* Write your implementation of displayMessage() */

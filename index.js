@@ -15,5 +15,5 @@ function showMessage(msg) {
 }
 /* Write your implementation of displayMessage() */
 function message(timeString) {
-  const
+  const time = 
 }
